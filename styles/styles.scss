@@ -1,0 +1,13 @@
+// Sækja allt úr styles/
+
+main {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@import "scss/config";
+@import "scss/global";
+@import "scss/grid";
+@import "scss/header";
+@import "scss/event";
+@import "scss/book";
