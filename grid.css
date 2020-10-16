@@ -1,6 +1,3 @@
-// Sækja config
-@import './config';
-ines (161 sloc) 2.16 KB
 .grid {
   max-width: 1400px;
   margin: 0 auto;
